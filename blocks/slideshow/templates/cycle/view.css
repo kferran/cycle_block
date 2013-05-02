@@ -1,13 +1,10 @@
 #nav{
 	background: #a41438;
-	/*opacity: .6;
-	filter: alpha(opacity=60);*/
 	min-width: 40px;
 	height: 30px;
 	padding: 0 5px 0 10px;
 	position: absolute;
-	bottom: 28px;
-	z-index: 50;
+	top: 386px;
 }
 
 #nav a.service{
